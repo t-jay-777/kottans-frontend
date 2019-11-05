@@ -1,2 +1,3 @@
 # kottans-frontend
-I start learn frontend with kottans
+Wow! 
+I've learnt just some lessons about Git... It is both simple and hard imlement. Much left to find out more but basics are done. 

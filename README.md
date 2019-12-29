@@ -1,4 +1,4 @@
-##HTML & CSS practice: Hooli-style Popup
+## HTML & CSS practice: Hooli-style Popup
 This task was first with some kind of practice. I deside use Grid method combining it with Flex.<br>
 First of all I did looked at mockup that page is not difficult and it needs only one list with main-manu and also one or two sublists for popup menu. Main menu had been done pretty fast and it start to be difficult when I tried to do popup menu. Pseudo element **::before** helped to do it what I learned while the task had being doing. Also another pseudoelements I used to complete the task. 
 ## Responsive Web Design

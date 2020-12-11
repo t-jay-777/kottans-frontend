@@ -1,6 +1,18 @@
+##DOM
+<p> This module I did to long. I started it in April, passed almost all tasks. For practical task I feeled proscarnation. I did everything but not my dom-page. Finally it is almost done so I can show you this. It was hard thema for me and I need to learn it better in the future.</p>
+<h4>JavaScript and the DOM(Udacity)</h4>
+<p>I liked this course because maximum information for only four lessons. Only intensive knowlege.</p>
+<p>How to get html elements with JavaScript, how to cteate content on web page, browser events etc. But for me DOM like representation of HTML document like a node-tree still a magic.</p><br>
+<img src="https://github.com/t-jay-777/kottans-frontend/blob/master/task_js_dom/udacity_dom.png" width="25%"><br>
+<h4>freecodecamp Algorithm Scripting Challenges</h4>
+<p>Sometimes I spend few days to solve a problem, sometimes it was easy but I did it. Also I passed all preveous challenges to refresh my knowlege and to remind them</p><br>
+<img src="https://github.com/t-jay-777/kottans-frontend/blob/master/task_js_dom/freecodecamp_certification_basic_js.png" width="25%"><br>
+<p> I hope my job is ok. I really enjoy of learning all this stuff</p>
+
+
 ## JS Basics
 <p>I finished to learn JavaScript basic. During the challenge I find out much new js features. Also it was good coding practice for me. This chalenge motivate me to learn deeper about algorithms. I have started some lessons.</p>
-<h4>1. Intro to JS (Udemy)</h4>
+<h4>1. Intro to JS (Udacity)</h4>
 <p>I thought it will be easy for me because I mentioned I know some javascript basics, but it it turned out that I know only very basics.<br> Conditions and loops I catch very fast. It was hard to understand recursive functions and I still feel not familiar with them. In my algorithms lessons I try to pay more attention for this problem. It makes code like art 😎.<br>
 Arrays and objects explosured my brain. Thats why it is interesting. Thats why I feel I should to tame this great powerfull tool 💪.</p><br>
 <img src="https://github.com/t-jay-777/kottans-frontend/blob/master/JavaScript%20Basics/udemy_js_basic.png" width="25%"><br>

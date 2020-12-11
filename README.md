@@ -1,4 +1,4 @@
-##DOM
+## DOM
 <p> This module I did to long. I started it in April, passed almost all tasks. For practical task I feeled proscarnation. I did everything but not my dom-page. Finally it is almost done so I can show you this. It was hard thema for me and I need to learn it better in the future.</p>
 <h4>JavaScript and the DOM(Udacity)</h4>
 <p>I liked this course because maximum information for only four lessons. Only intensive knowlege.</p>

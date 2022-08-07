@@ -73,19 +73,21 @@ As I understand I add some screenshots of Linux Survival course:<br>
 <img src="task_linux_cli/screenshot_linux_surv_3.png" width="32%">
 <img src="task_linux_cli/screenshot_linux_surv_4.png" width="32%">
 <img src="task_linux_cli/screenshot_linux_surv_5.png" width="32%">
+<br>
+<img src="config_linx_web_server.png" width="45%">
 <hr>
 
 ## Git Collaboration
 In 0 stage of general basics of the course I had been learned about git and GitHub and I spend much time to learn not provided extra material on this topic. 
 But here I found smth new also. In many problems I look from a different angle and I had a good practice to make remote repos and interact with them. 
-Anyway there exist plenty more information about git what I should know and of course **practice and more an more practice**.
+Anyway there exist plenty more information about git what I should know and of course **practice and more an more practice**
 Some screenshots after tasked cources:<br>
 <img src="git_for_team_collabotation/git_collaboration_1.png" width="45%">
 <img src="git_for_team_collabotation/git_collaboration_2.png" width="45%">
-<br>
+<hr>
 <img src="git_for_team_collabotation/git_collaboration_3.png" width="45%">
 <img src="git_for_team_collabotation/git_collaboration_4.png" width="45%">
-<br>
+<hr>
 <img src="git_for_team_collabotation/git_collaboration_3.png" width="45%">
 <img src="git_for_team_collabotation/git_collaboration_4.png" width="45%">
 <hr>

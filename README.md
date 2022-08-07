@@ -66,6 +66,12 @@ Some screenshots after tasked cources:<br>
 <img src="git_for_team_collabotation/git_collaboration_1.png" width="45%">
 <img src="git_for_team_collabotation/git_collaboration_2.png" width="45%">
 <hr>
+<img src="git_for_team_collabotation/git_collaboration_3.png" width="45%">
+<img src="git_for_team_collabotation/git_collaboration_4.png" width="45%">
+<hr>
+<img src="git_for_team_collabotation/git_collaboration_3.png" width="45%">
+<img src="git_for_team_collabotation/git_collaboration_4.png" width="45%">
+<hr>
 
 ## Linux CLI, and HTTP
 This part of the cource I past fast because during my learning previous part about Git and Git Hub I had learned plenty extra materials what included Linux comand line also.

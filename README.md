@@ -78,14 +78,14 @@ As I understand I add some screenshots of Linux Survival course:<br>
 ## Git Collaboration
 In 0 stage of general basics of the course I had been learned about git and GitHub and I spend much time to learn not provided extra material on this topic. 
 But here I found smth new also. In many problems I look from a different angle and I had a good practice to make remote repos and interact with them. 
-Anyway there exist plenty more information about git what I should know and of course **practice and more an more practice**
+Anyway there exist plenty more information about git what I should know and of course **practice and more an more practice**.
 Some screenshots after tasked cources:<br>
 <img src="git_for_team_collabotation/git_collaboration_1.png" width="45%">
 <img src="git_for_team_collabotation/git_collaboration_2.png" width="45%">
-<hr>
+<br>
 <img src="git_for_team_collabotation/git_collaboration_3.png" width="45%">
 <img src="git_for_team_collabotation/git_collaboration_4.png" width="45%">
-<hr>
+<br>
 <img src="git_for_team_collabotation/git_collaboration_3.png" width="45%">
 <img src="git_for_team_collabotation/git_collaboration_4.png" width="45%">
 <hr>

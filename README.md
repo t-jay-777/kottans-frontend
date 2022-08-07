@@ -60,19 +60,6 @@ Udacity course is for very begginers<br>
 Extra material also are in my learning process. I will try to get certification <a href="https://www.freecodecamp.org" title="freecodecamp.org">here</a>.
 <hr>
 
-## Git Collaboration
-In 0 stage of general basics of the course I had been learned about git and GitHub and I spend much time to learn not provided extra material on this topic. But here I found smth new also. In many problems I look from a different angle and I had a good practice to make remote repos and interact with them. Anyway there exist plenty more information about git what I should know and of course **practice and more an more practice**
-Some screenshots after tasked cources:<br>
-<img src="git_for_team_collabotation/git_collaboration_1.png" width="45%">
-<img src="git_for_team_collabotation/git_collaboration_2.png" width="45%">
-<hr>
-<img src="git_for_team_collabotation/git_collaboration_3.png" width="45%">
-<img src="git_for_team_collabotation/git_collaboration_4.png" width="45%">
-<hr>
-<img src="git_for_team_collabotation/git_collaboration_3.png" width="45%">
-<img src="git_for_team_collabotation/git_collaboration_4.png" width="45%">
-<hr>
-
 ## Linux CLI, and HTTP
 This part of the cource I past fast because during my learning previous part about Git and Git Hub I had learned plenty extra materials what included Linux comand line also.
 	
@@ -88,6 +75,25 @@ As I understand I add some screenshots of Linux Survival course:<br>
 <img src="task_linux_cli/screenshot_linux_surv_5.png" width="32%">
 <hr>
 
+## Git Collaboration
+In 0 stage of general basics of the course I had been learned about git and GitHub and I spend much time to learn not provided extra material on this topic. 
+But here I found smth new also. In many problems I look from a different angle and I had a good practice to make remote repos and interact with them. 
+Anyway there exist plenty more information about git what I should know and of course **practice and more an more practice**
+Some screenshots after tasked cources:<br>
+<img src="git_for_team_collabotation/git_collaboration_1.png" width="45%">
+<img src="git_for_team_collabotation/git_collaboration_2.png" width="45%">
+<hr>
+<img src="git_for_team_collabotation/git_collaboration_3.png" width="45%">
+<img src="git_for_team_collabotation/git_collaboration_4.png" width="45%">
+<hr>
+<img src="git_for_team_collabotation/git_collaboration_3.png" width="45%">
+<img src="git_for_team_collabotation/git_collaboration_4.png" width="45%">
+<hr>
+
+
 # kottans-frontend
 Wow! 
 I've learnt just some lessons about Git... It is both simple and hard imlement. Much left to find out more but basics are done. 
+It is my third try to pass this tasks. So I knew something :)
+Anyway I try to do all main and additional tasks.
+**Repetition is a mother of knowlege.**

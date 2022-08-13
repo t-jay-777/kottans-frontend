@@ -66,17 +66,17 @@ Task <a href="https://www.coursera.org/learn/introduction-git-github">Introducti
 But here I found smth new also. In many problems I look from a different angle and I had a good practice to make remote repos and interact with them. 
 Anyway there exist plenty more information about git what I should know and of course **practice and more an more practice**
 Some screenshots after tasked cources:<br>
-<img src="git_for_team_collabotation/git_collaboration_1.png" width="45%">
-<img src="git_for_team_collabotation/git_collaboration_2.png" width="45%">
+<img src="task_git_collaboration/git_collaboration_1.png" width="45%">
+<img src="task_git_collaboration/git_collaboration_2.png" width="45%">
 <br>
-<img src="git_for_team_collabotation/git_collaboration_3.png" width="45%">
-<img src="git_for_team_collabotation/git_collaboration_4.png" width="45%">
+<img src="task_git_collaboration/git_collaboration_3.png" width="44%">
+<img src="task_git_collaboration/git_collaboration_4.png" width="44%">
 <br>
-<img src="git_for_team_collabotation/git_collaboration_7.png" width="45%">
-<img src="git_for_team_collabotation/git_collaboration_8.png" width="45%">
+<img src="task_git_collaboration/git_collaboration_7.png" width="45%">
+<img src="task_git_collaboration/git_collaboration_8.png" width="45%">
 <br>
-<img src="git_for_team_collabotation/git_collaboration_5.png" width="45%">
-<img src="git_for_team_collabotation/git_collaboration_6.png" width="45%">
+<img src="task_git_collaboration/git_collaboration_5.png" width="45%">
+<img src="task_git_collaboration/git_collaboration_6.png" width="45%">
 
 ## Linux CLI, and HTTP
 This part of the cource I past fast because during my learning previous part about Git and Git Hub I had learned plenty extra materials what included Linux comand line also.

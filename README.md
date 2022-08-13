@@ -60,6 +60,24 @@ Udacity course is for very begginers<br>
 Extra material also are in my learning process. I will try to get certification <a href="https://www.freecodecamp.org" title="freecodecamp.org">here</a>.
 <hr>
 
+## Git Collaboration
+In 0 stage of general basics of the course I had been learned about git and GitHub and I spend much time to learn not provided extra material on this topic.
+Task <a href="https://www.coursera.org/learn/introduction-git-github">Introduction to Git and GitHub</a> I add screenshots without passed tests in week 3 and 4 as course is free during 2 modules.
+But here I found smth new also. In many problems I look from a different angle and I had a good practice to make remote repos and interact with them. 
+Anyway there exist plenty more information about git what I should know and of course **practice and more an more practice**
+Some screenshots after tasked cources:<br>
+<img src="git_for_team_collabotation/git_collaboration_1.png" width="45%">
+<img src="git_for_team_collabotation/git_collaboration_2.png" width="45%">
+<br>
+<img src="git_for_team_collabotation/git_collaboration_3.png" width="45%">
+<img src="git_for_team_collabotation/git_collaboration_4.png" width="45%">
+<br>
+<img src="git_for_team_collabotation/git_collaboration_7.png" width="45%">
+<img src="git_for_team_collabotation/git_collaboration_8.png" width="45%">
+<br>
+<img src="git_for_team_collabotation/git_collaboration_5.png" width="45%">
+<img src="git_for_team_collabotation/git_collaboration_6.png" width="45%">
+
 ## Linux CLI, and HTTP
 This part of the cource I past fast because during my learning previous part about Git and Git Hub I had learned plenty extra materials what included Linux comand line also.
 	
@@ -77,20 +95,6 @@ As I understand I add some screenshots of Linux Survival course:<br>
 <img src="config_linx_web_server.png" width="45%">
 <hr>
 
-## Git Collaboration
-In 0 stage of general basics of the course I had been learned about git and GitHub and I spend much time to learn not provided extra material on this topic. 
-But here I found smth new also. In many problems I look from a different angle and I had a good practice to make remote repos and interact with them. 
-Anyway there exist plenty more information about git what I should know and of course **practice and more an more practice**
-Some screenshots after tasked cources:<br>
-<img src="git_for_team_collabotation/git_collaboration_1.png" width="45%">
-<img src="git_for_team_collabotation/git_collaboration_2.png" width="45%">
-<hr>
-<img src="git_for_team_collabotation/git_collaboration_3.png" width="45%">
-<img src="git_for_team_collabotation/git_collaboration_4.png" width="45%">
-<hr>
-<img src="git_for_team_collabotation/git_collaboration_3.png" width="45%">
-<img src="git_for_team_collabotation/git_collaboration_4.png" width="45%">
-<hr>
 
 
 # kottans-frontend

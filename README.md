@@ -57,7 +57,19 @@ It was so interesting, that I forgot about 2 free chapters and I don't know how 
 But I'm glad of it. Some information are refreshed and some are new for me.<br>
 Udacity course is for very begginers<br>
 <img src="task_html_css_intro/udacity_intro_to_html_css.png" width="20%"><br>
-Extra material also are in my learning process. I will try to get certification <a href="https://www.freecodecamp.org" title="freecodecamp.org">here</a>.
+Extra material also are in my learning process. I will try to get certification <a href="https://www.freecodecamp.org" title="freecodecamp.org">here</a>.<br>
+This part I update with 2022 course, so previous task were from before Kottan courses.<br>
+I passed lessons in html/css on <a href="https://www.w3schools.com">w3schools</a> platform. I wonder why it isn't added to learning program.<br> 
+<img src="task_html_css_intro/w3_html_css_intro_1.png" width="40%">
+<img src="task_html_css_intro/w3_html_css_intro_2.png" width="40%">
+<br>
+Also I passed required courses:<br>
+<img src="task_html_css_intro/coursera_html_css_intro_1.png" width="20%">
+<img src="task_html_css_intro/coursera_html_css_intro_2.png" width="20%">
+<img src="task_html_css_intro/codeacademy_html_css_intro_1.png" width="20%">
+<img src="task_html_css_intro/codeacademy_html_css_intro_2.png" width="20%"><br>
+Coursera lessons are full of information but I mention it is a bit boring.
+As for codeacademy lessons I'd say that after <a href="https://www.w3schools.com">w3schools</a> nothing new for me.<br> 
 <hr>
 
 ## Git Collaboration

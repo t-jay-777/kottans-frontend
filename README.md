@@ -38,12 +38,12 @@ As I had some problems before pushing this task to github I made some extra <a h
 
 ## Responsive Web Design
 While I had been passing <a href="https://www.udacity.com/course/responsive-web-design-fundamentals--ud893">Responsive Web Design</a> I found in extra matherials link to <a href="https://www.udacity.com/course/responsive-images--ud882">Responsive Images</a> course. I guess both them should be learned. I had known about responsive web design but I hadn't imaged all this problem. In my training projects I tried do smth "responsive" but after the courses I know this problem much better. I found out a lot about @media queries, relative measures, <picture></picture>, templates and many other things. Some meta datas could help make responsive design also. I learned some technics how to do **adoptive** design. Now I understand better how to manage images in my future projects. I should pay more attention for img formats. Also I found out the power of fonts, CSS background images, icons, svg images. I know now about such powerful tools like **srcset** and **sizes**(attribute). All problems showed in this two courses were interesting and I spend more time to learn that deep.<br>
-<img src="https://github.com/t-jay-777/kottans-frontend/blob/master/responsive_web_design/responsive_web.png" width="25%">
-<img src="https://github.com/t-jay-777/kottans-frontend/blob/master/responsive_web_design/responsive_img.jpg" width="25%">
+<img src="task_responsive_web_design/responsive_web.png" width="25%">
+<img src="task_responsive_web_design/responsive_img.jpg" width="25%">
 <br> This problem will learned much more by me :blush:.<br>
 Games <a href="http://flexboxfroggy.com/#ru">FLEXBOX FROGGY</a> and <a href="https://codepip.com/games/grid-garden/">Grid Garden</a> were interestig also and helped me to understand a bit flexbox and grid.<br>
-<img src="https://github.com/t-jay-777/kottans-frontend/blob/master/responsive_web_design/flexbox_froggy.png" width="25%">
-<img src="https://github.com/t-jay-777/kottans-frontend/blob/master/responsive_web_design/grid_garden.png" width="25%"><br>
+<img src="task_responsive_web_design/flexbox_froggy.png" width="25%">
+<img src="task_responsive_web_design/grid_garden.png" width="25%"><br>
 Unfortunatelly I cant say it about <a href="https://mastery.games/p/flexbox-zombies">Flexbox Zombies</a>.
 <br>
 Update in 2022:
@@ -52,8 +52,8 @@ I watched <a href="https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjM
  and I advice to everyone to do it :).
 I did <a href="http://flexboxfroggy.com/#ru">FLEXBOX FROGGY</a> and <a href="https://mastery.games/p/flexbox-zombies">Flexbox Zombies</a>tasks again. I think it would good for my learning.
 <br>
-<img src="https://github.com/t-jay-777/kottans-frontend/blob/master/responsive_web_design/flexbox_froggy_1.png" width="25%">
-<img src="https://github.com/t-jay-777/kottans-frontend/blob/master/responsive_web_design/grid_garden_1.png" width="25%"><br>
+<img src="task_responsive_web_design/flexbox_froggy_1.png" width="25%">
+<img src="task_responsive_web_design/grid_garden_1.png" width="25%"><br>
 <hr>
  
 ## Intro to HTML and CSS

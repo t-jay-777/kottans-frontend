@@ -45,8 +45,17 @@ Games <a href="http://flexboxfroggy.com/#ru">FLEXBOX FROGGY</a> and <a href="htt
 <img src="responsive_web_design/flexbox_froggy.png" width="25%">
 <img src="responsive_web_design/grid_garden.png" width="25%"><br>
 Unfortunatelly I cant say it about <a href="https://mastery.games/p/flexbox-zombies">Flexbox Zombies</a>.
+<br>
+Update in 2022:
+I watched <a href="https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x"> playlist about flexbox</a> and
+ <a href="https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm">about grid layout</a>. I found it useful and interesting and also I subscribed for <a href="https://www.youtube.com/c/FreelancerLifeStyle"> Фрілансер по життю</a> 
+ and I advice to everyone to do it :).
+I did <a href="http://flexboxfroggy.com/#ru">FLEXBOX FROGGY</a> and <a href="https://mastery.games/p/flexbox-zombies">Flexbox Zombies</a>tasks again. I think it would good for my learning.
+<br>
+<img src="responsive_web_design/flexbox_froggy_1.png" width="25%">
+<img src="responsive_web_design/grid_garden_1.png" width="25%"><br>
 <hr>
-
+ 
 ## Intro to HTML and CSS
 Couple month ago I had won as a prise <a href="https://geekbrains.ru/courses/246">HTML/CSS course</a> so I can say that I had recognized a bit about <a href="https://github.com/t-jay-777/kottans-frontend/blob/master/html_css_intro/geekbrains_html_css_basic.en.pdf" title="Certificate">web-page design</a>. But I had found <a href="https://htmlacademy.ru" title="htmlacademy.ru">here</a> also much useful information for me: tables, selectors, page markup etc.<br>
 It was so interesting, that I forgot about 2 free chapters and I don't know how could pass more.<br>
